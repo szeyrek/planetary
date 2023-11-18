@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">planetary</string>
+    <string name="apod_list_001">Filter</string>
+    <string name="apod_list_002">Done</string>
+    <string name="apod_list_003">Last Week</string>
+    <string name="apod_list_004">Last Month</string>
+    <string name="apod_list_005">Last 3 Month</string>
+</resources>
